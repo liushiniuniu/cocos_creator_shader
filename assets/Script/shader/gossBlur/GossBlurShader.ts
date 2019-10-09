@@ -1,4 +1,4 @@
-import Shader, { ShaderAttribute } from "../Shader";
+import Shader, { ShaderAttribute } from "../lib/Shader";
 
 const { ccclass, property } = cc._decorator;
 
